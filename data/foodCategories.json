@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza",
+        "description": "Delicious cheese and pepperoni pizza",
+        "image": "images/pizza.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Burger",
+        "description": "Juicy beef burger with lettuce and tomato",
+        "image": "images/burger.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sushi",
+        "description": "Fresh sushi rolls with salmon and avocado",
+        "image": "images/sushi.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pasta",
+        "description": "Pasta with creamy Alfredo sauce",
+        "image": "images/pasta.jpg"
+    }
+]
