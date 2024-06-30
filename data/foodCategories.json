@@ -2,25 +2,107 @@
     {
         "id": 1,
         "name": "Pizza",
-        "description": "Delicious cheese and pepperoni pizza",
-        "image": "images/pizza.jpg"
+        "items": [
+            {
+                "name": "Pepperoni Pizza",
+                "price": 8.99,
+                "image": "images/pepperoni_pizza.jpg"
+            },
+            {
+                "name": "Margherita Pizza",
+                "price": 7.99,
+                "image": "images/margherita_pizza.jpg"
+            },
+            {
+                "name": "BBQ Chicken Pizza",
+                "price": 9.99,
+                "image": "images/bbq_chicken_pizza.jpg"
+            }
+        ]
     },
     {
         "id": 2,
-        "name": "Burger",
-        "description": "Juicy beef burger with lettuce and tomato",
-        "image": "images/burger.jpg"
+        "name": "Burgers",
+        "items": [
+            {
+                "name": "Cheeseburger",
+                "price": 5.99,
+                "image": "images/cheeseburger.jpg"
+            },
+            {
+                "name": "Veggie Burger",
+                "price": 6.99,
+                "image": "images/veggie_burger.jpg"
+            },
+            {
+                "name": "Bacon Burger",
+                "price": 7.99,
+                "image": "images/bacon_burger.jpg"
+            }
+        ]
     },
     {
         "id": 3,
-        "name": "Sushi",
-        "description": "Fresh sushi rolls with salmon and avocado",
-        "image": "images/sushi.jpg"
+        "name": "Salads",
+        "items": [
+            {
+                "name": "Caesar Salad",
+                "price": 4.99,
+                "image": "images/caesar_salad.jpg"
+            },
+            {
+                "name": "Greek Salad",
+                "price": 5.49,
+                "image": "images/greek_salad.jpg"
+            },
+            {
+                "name": "Garden Salad",
+                "price": 4.49,
+                "image": "images/garden_salad.jpg"
+            }
+        ]
     },
     {
         "id": 4,
         "name": "Pasta",
-        "description": "Pasta with creamy Alfredo sauce",
-        "image": "images/pasta.jpg"
+        "items": [
+            {
+                "name": "Spaghetti Carbonara",
+                "price": 6.99,
+                "image": "images/spaghetti_carbonara.jpg"
+            },
+            {
+                "name": "Fettuccine Alfredo",
+                "price": 7.99,
+                "image": "images/fettuccine_alfredo.jpg"
+            },
+            {
+                "name": "Penne Arrabbiata",
+                "price": 6.49,
+                "image": "images/penne_arrabbiata.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Desserts",
+        "items": [
+            {
+                "name": "Chocolate Cake",
+                "price": 3.99,
+                "image": "images/chocolate_cake.jpg"
+            },
+            {
+                "name": "Ice Cream",
+                "price": 2.99,
+                "image": "images/ice_cream.jpg"
+            },
+            {
+                "name": "Fruit Salad",
+                "price": 3.49,
+                "image": "images/fruit_salad.jpg"
+            }
+        ]
     }
 ]
+
